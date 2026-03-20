@@ -12,7 +12,7 @@ Mahendra Flour Mill – Fresh and nutritious wheat flour ground on traditional s
     nav { display:flex; justify-content:center; background:#8b5a2b; flex-wrap:wrap; }
     nav a { color:white; padding:10px 15px; text-decoration:none; }
     nav a:hover { background:#6b3e26; }
-    .hero { background:url('https://images.unsplash.com/photo-1604908176997-125f25cc6f3d'); background-size:cover; color:white; text-align:center; padding:100px 20px; }
+    .hero { background:url('<img src="https://your-image-link.png" alt="Mahendra Flour Mill Logo">'); background-size:cover; color:white; text-align:center; padding:100px 20px; }
     .section { padding:40px 20px; text-align:center; }
     .products { display:flex; flex-wrap:wrap; justify-content:center; gap:20px; }
     .card { border:1px solid #ddd; padding:20px; width:250px; border-radius:10px; }
