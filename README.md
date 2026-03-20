@@ -45,7 +45,7 @@ Mahendra Flour Mill – Fresh and nutritious wheat flour ground on traditional s
   <h2 class="mr" style="display:none;">आरोग्यदायी जीवनासाठी उत्तम पीठ</h2>
   <p class="en">We provide high-quality stone-ground wheat flour.</p>
   <p class="mr" style="display:none;">आम्ही पारंपरिक पद्धतीने दळलेले पौष्टिक पीठ देतो.</p>
-  <a href="https://wa.me/919876543210"><button>Order on WhatsApp</button></a>
+  <a href="https://wa.me/917420033083"><button>Order on WhatsApp</button></a>
 </section><section class="section" id="about">
   <h2>About Us</h2>
   <p class="en">Mahendra Flour Mill provides fresh and hygienic flour using traditional stone grinding methods.</p>
@@ -57,21 +57,13 @@ Mahendra Flour Mill – Fresh and nutritious wheat flour ground on traditional s
       <h3>Wheat Flour</h3>
       <p>Fresh Chakki Atta</p>
     </div>
-    <div class="card">
-      <h3>Multigrain Flour</h3>
-      <p>Healthy Mix</p>
-    </div>
-    <div class="card">
-      <h3>Bajra Flour</h3>
-      <p>Nutritious Choice</p>
-    </div>
   </div>
 </section><section class="section" id="contact">
   <h2>Contact Us</h2>
-  <p>Phone: 9876543210</p>
+  <p>Phone: 7420033083</p>
   <p>Email: mahendraflourmill@gmail.com</p>
   <p>Address: Your Location Here</p>
-  <iframe src="https://maps.google.com/maps?q=Nagpur&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+  <iframe src="https://maps.app.goo.gl/2fSpi9TACX37Rn228?g_st=ac"></iframe>
 </section><footer>
   <p>© 2026 Mahendra Flour Mill</p>
 </footer></body>
